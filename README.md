@@ -10,7 +10,7 @@
 # 스토리보드
 
 # 앱화면
-
+![tjfaud](https://github.com/ProjectInTheClass/DayOfMyMind/blob/master/docs/스크린샷%202018-01-23%20오후%207.51.24.png)
 # 동영상
 
 # 팀원소개
